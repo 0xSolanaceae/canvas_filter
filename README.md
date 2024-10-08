@@ -1,4 +1,4 @@
-# canvas_flter
+# canvas_filter
 
 ## Introduction
 
