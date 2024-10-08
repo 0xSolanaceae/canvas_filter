@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name          Canvas Untracker
-// @namespace     https://www.artemive.tk/ashore
-// @description   Prevent canvas from knowing you changed tabs
+// @name          Canvas Filter
+// @namespace     https://solanaceae.xyz/
+// @description   Prevent your activity from being returned to Instructure's canvas
 // @author        Solanaceae
 // @version       1.0
 // @match         http*://*canvas.*.edu/*
